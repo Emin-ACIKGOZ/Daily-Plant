@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">Daily Plant</string>
+    <string name="expand_button_content_description">Provides more details on a plant</string>
+
+    <string name="aloe_vera">Aloe Vera</string>
+    <string name="ashwagandha">Ashwagandha</string>
+    <string name="bilberry">Bilberry</string>
+    <string name="bitter_melon">Bitter Melon</string>
+    <string name="black_cohosh">Black Cohosh</string>
+    <string name="calendula">Calendula</string>
+    <string name="cats_claw">Cat\'s Claw</string>
+    <string name="chamomile">Chamomile</string>
+    <string name="echinacea">Echinacea</string>
+    <string name="elderberry">Elderberry</string>
+    <string name="ginkgo_biloba">Ginkgo Biloba</string>
+    <string name="ginger">Ginger</string>
+    <string name="ginseng">Ginseng</string>
+    <string name="goldenseal">Goldenseal</string>
+    <string name="hawthorn">Hawthorn</string>
+    <string name="holy_basil">Holy Basil</string>
+    <string name="horsetail">Horsetail</string>
+    <string name="lavender">Lavender</string>
+    <string name="licorice_root">Licorice Root</string>
+    <string name="milk_thistle">Milk Thistle</string>
+    <string name="nettle">Nettle</string>
+    <string name="olive_leaf">Olive Leaf</string>
+    <string name="peppermint">Peppermint</string>
+    <string name="red_clover">Red Clover</string>
+    <string name="reishi_mushroom">Reishi Mushroom</string>
+    <string name="saint_johns_wort">Saint John\'s Wort</string>
+    <string name="saw_palmetto">Saw Palmetto</string>
+    <string name="turmeric">Turmeric</string>
+    <string name="valerian">Valerian</string>
+    <string name="yarrow">Yarrow</string>
+
+    <string name="aloe_vera_description">
+        Aloe Vera originates from the Arabian Peninsula and is a succulent plant with thick, fleshy leaves.
+        The gel from the leaves is extracted and applied topically for skin healing or consumed to soothe digestive issues.
+        Its effects are achieved through compounds like aloin, which promote healing and reduce inflammation.
+    </string>
+
+    <string name="ashwagandha_description">
+        Ashwagandha is native to India and parts of Africa, featuring small green leaves and red berries.
+        The root is dried, powdered, and consumed as a tea or in capsules.
+        Its adaptogenic effects, reducing stress and improving energy, are due to the active compounds called withanolides.
+    </string>
+
+    <string name="bilberry_description">
+        Bilberry is found in Europe and grows as a small shrub with dark blue berries.
+        The berries are consumed fresh, dried, or in extracts for eye health and circulation.
+        Its effects are due to anthocyanins, which improve blood vessel function and reduce inflammation.
+    </string>
+
+    <string name="bitter_melon_description">
+        Bitter Melon is native to tropical regions of Asia and has an oblong, bumpy fruit.
+        The fruit is typically juiced, cooked, or taken as a supplement to help regulate blood sugar.
+        Its hypoglycemic effects are achieved by compounds like charantin and polypeptide-p, which mimic insulin.
+    </string>
+
+    <string name="black_cohosh_description">
+        Black Cohosh originates from North America and is a tall plant with white flowers.
+        The root is dried and used in tinctures or capsules to alleviate menopause symptoms.
+        Its effects are believed to be due to triterpene glycosides, though the exact mechanism is not fully understood.
+    </string>
+
+    <string name="calendula_description">
+        Calendula is native to the Mediterranean and has bright yellow to orange flowers.
+        The flowers are dried and used in oils, creams, or teas for their anti-inflammatory and healing properties.
+        The active compounds, such as flavonoids, help reduce inflammation and promote tissue repair.
+    </string>
+
+    <string name="cats_claw_description">
+        Cat\'s Claw is found in the Amazon rainforest and features claw-shaped thorns on its vine.
+        The bark and root are made into teas or extracts to boost the immune system and reduce inflammation.
+        Its effects come from alkaloids like rhynchophylline, which modulate the immune response.
+    </string>
+
+    <string name="chamomile_description">
+        Chamomile is native to Europe and Western Asia and has daisy-like white flowers.
+        The dried flowers are steeped in tea or used in topical preparations to promote relaxation and digestion.
+        Chamomile’s effects are primarily due to apigenin, which binds to receptors in the brain that reduce anxiety.
+    </string>
+
+    <string name="echinacea_description">
+        Echinacea is native to North America and is characterized by its purple coneflowers.
+        The roots and leaves are dried and taken as teas, tinctures, or supplements to enhance immune function.
+        Echinacea works by increasing the production of white blood cells, although the exact mechanism is not fully known.
+    </string>
+
+    <string name="elderberry_description">
+        Elderberry is native to Europe and North America and has clusters of small, dark berries.
+        The berries are cooked into syrups or extracts to boost the immune system and alleviate cold and flu symptoms.
+        Its effects are due to flavonoids, which reduce viral replication and inflammation.
+    </string>
+
+    <string name="ginkgo_biloba_description">
+        Ginkgo Biloba originates from China and has fan-shaped leaves.
+        The leaves are dried and consumed in teas or capsules to improve cognitive function and circulation.
+        Its effects are thought to be caused by terpenoids and flavonoids, which enhance blood flow and act as antioxidants.
+    </string>
+
+    <string name="ginger_description">
+        Ginger is native to Southeast Asia and has a knobby, underground stem (rhizome).
+        The fresh or dried root is consumed as tea, in food, or in supplements to treat nausea and inflammation.
+        Gingerol, its main bioactive compound, reduces nausea and has anti-inflammatory effects by blocking certain enzymes
+    </string>
+
+    <string name="ginseng_description">
+        Ginseng is found in East Asia and North America, featuring a fleshy root.
+        The root is dried and taken as tea or in capsules to reduce stress and boost energy.
+        Its effects are due to ginsenosides, which act on the central nervous system to enhance physical and mental performance.
+    </string>
+
+    <string name="goldenseal_description">
+        Goldenseal originates from North America and has bright yellow roots and small, green leaves.
+        The root is dried and consumed in capsules or teas to treat infections and digestive disorders.
+        Berberine, its active compound, has antimicrobial effects by inhibiting bacterial growth and supporting immune function.
+    </string>
+
+    <string name="hawthorn_description">
+        Hawthorn is native to Europe, North America, and Asia, with red berries and thorny branches.
+        The berries and leaves are dried and used in teas or extracts to support heart health.
+        Its cardio-protective effects are due to flavonoids, which improve circulation and strengthen the heart muscle.
+    </string>
+
+    <string name="holy_basil_description">
+        Holy Basil is native to India and has green or purple leaves with a strong aroma.
+        The leaves are consumed as tea or in capsules to reduce stress and support respiratory health.
+        Its effects come from eugenol and other compounds, which help reduce stress and inflammation through their antioxidant activity.
+    </string>
+
+    <string name="horsetail_description">
+        Horsetail grows in temperate regions of Europe, North America, and Asia, with tall, jointed stems.
+        The aerial parts are dried and consumed as tea or extracts to support bone, nail, and hair health.
+        Its high silica content strengthens connective tissues, though the exact mechanism is not fully understood.
+    </string>
+
+    <string name="lavender_description">
+        Lavender originates from the Mediterranean and features purple flowers with a calming fragrance.
+        The flowers are distilled into essential oil or steeped in tea for relaxation and sleep support.
+        The effects are due to linalool, a compound that influences neurotransmitters to promote calmness.
+    </string>
+
+    <string name="licorice_root_description">
+        Licorice Root is native to Southern Europe and Western Asia, with long, slender roots.
+        The root is dried and taken as tea, in capsules, or in tinctures for soothing digestion and respiratory issues.
+        Its effects are due to glycyrrhizin, which has anti-inflammatory and immune-boosting properties.
+    </string>
+
+    <string name="milk_thistle_description">
+        Milk Thistle is found in Mediterranean regions, characterized by its spiny leaves and purple flowers.
+        The seeds are crushed and consumed as tea or in capsules to support liver health.
+        Its active compound, silymarin, helps protect the liver by promoting cell regeneration and reducing oxidative stress.
+    </string>
+
+    <string name="nettle_description">
+        Nettle is native to Europe, Asia, and North America, with stinging hairs on its leaves and stems.
+        The leaves and roots are dried and made into teas or capsules to treat arthritis and allergies.
+        Its effects are thought to come from anti-inflammatory compounds and histamine-blocking properties.
+    </string>
+
+    <string name="olive_leaf_description">
+        Olive trees are native to the Mediterranean, with elongated green leaves.
+        The leaves are dried and taken as tea or in extract form to support heart health and lower blood pressure.
+        Its effects are attributed to oleuropein, which has antioxidant and anti-inflammatory properties.
+    </string>
+
+    <string name="peppermint_description">
+        Peppermint is native to Europe and has fragrant, dark green leaves.
+        The leaves are consumed as tea or in oil form to soothe digestive issues and improve respiratory health.
+        Its effects are due to menthol, which relaxes muscles in the digestive tract and has a cooling effect on the skin.
+    </string>
+
+    <string name="red_clover_description">
+        Red Clover is native to Europe and Asia, featuring pinkish-purple flower heads.
+        The flowers are dried and consumed as tea or in capsules to support respiratory health and alleviate menopausal symptoms.
+        Its effects are due to isoflavones, which mimic estrogen in the body and support hormone balance.
+    </string>
+
+    <string name="reishi_mushroom_description">
+        Reishi Mushroom is found in East Asia and has a reddish-brown, kidney-shaped fruiting body.
+        The mushroom is dried and consumed as tea or in capsules to boost immune function and reduce stress.
+        Its effects come from polysaccharides, which enhance immune activity and promote relaxation.
+    </string>
+
+    <string name="saint_johns_wort_description">
+        Saint John\'s Wort is native to Europe and has bright yellow flowers.
+        The flowers and leaves are dried and taken as tea or in capsules to treat depression and nerve pain.
+        Its effects are thought to be due to hypericin and hyperforin, which influence serotonin levels in the brain.
+    </string>
+
+    <string name="saw_palmetto_description">
+        Saw Palmetto originates from the Southeastern United States and features fan-shaped leaves and dark berries.
+        The berries are dried and taken in capsules or extracts to support prostate health.
+        Its effects are believed to come from fatty acids and phytosterols, which reduce inflammation and influence hormone levels.
+    </string>
+
+    <string name="turmeric_description">
+        Turmeric is native to South Asia and has a bright orange root.
+        The root is dried and ground into powder, consumed in food, tea, or supplements to reduce inflammation.
+        Curcumin, the active compound, inhibits molecules that play a role in inflammation, providing relief for joint and digestive issues.
+    </string>
+
+    <string name="valerian_description">
+        Valerian is native to Europe and Asia and has small white or pink flowers.
+        The root is dried and consumed as tea or in capsules to promote relaxation and improve sleep.
+        Its effects are believed to come from valerenic acid, which affects GABA receptors in the brain to reduce anxiety.
+    </string>
+
+    <string name="yarrow_description">
+        Yarrow is native to Europe and Asia, with feathery leaves and clusters of white flowers.
+        The aerial parts are dried and used as tea or in poultices to treat wounds and digestive issues.
+        Its effects are due to compounds like flavonoids and salicylic acid, which reduce inflammation and support healing.
+    </string>
+</resources>
